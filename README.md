@@ -2,18 +2,18 @@
 - This repo does the following:
     - creates a SQL database based off a fake company called Pewlett Hackard.
     - 6 .csv files are used to make 6 tables of the Database
-          - employees
-          - salaries
-          - titles
-          - departments
-          - department employees
-          - department managers
+         - employees
+         - salaries
+         - titles
+         - departments
+         - department employees
+         - department managers
     - Makes 8 various queries from the database
-          - employee & salary info
-          - employees hired in 1986
-          - department manager info
-          - department employee info
-          - list of employees named Hercules B*
-          - employees in sales department
-          - employees in sales/development department
-          - unique last names and their frequency in the employee table.
+        - employee & salary info
+        - employees hired in 1986
+        - department manager info
+        - department employee info
+        - list of employees named Hercules B*
+        - employees in the sales department
+        - employees in the sales/development department
+        - unique last name and their frequency in the company
